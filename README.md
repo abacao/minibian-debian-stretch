@@ -11,7 +11,8 @@ root@minibian:~# hostnamectl
             Kernel: Linux 4.9.59-v7+
       Architecture: arm
 ```
-     
+Due to Github limitations, the file is hosted here: https://www.dropbox.com/s/lu0aptzkqvdja0n/minibian_stretch_20171219.img.tar.gz?dl=0
+
 The default user and password are still the same.
 
 Created and tested in a Raspberry Pi 3 in a 4Gb microsd card.
