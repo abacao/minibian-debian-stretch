@@ -11,7 +11,8 @@ root@minibian:~# hostnamectl
             Kernel: Linux 4.9.59-v7+
       Architecture: arm
 ```
-Due to Github limitations, the file is hosted here: https://www.dropbox.com/s/lu0aptzkqvdja0n/minibian_stretch_20171219.img.tar.gz?dl=0
+Due to Github limitations, the file is hosted here: 
+https://www.dropbox.com/s/mh9918iuxeooxor/2016-03-12-jessie-minibian.img?dl=0
 
 The default user and password are still the same.
 
